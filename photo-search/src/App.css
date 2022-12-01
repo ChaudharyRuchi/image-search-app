@@ -1,0 +1,25 @@
+.app{
+  text-align: center;
+  font-size: 30px;
+}
+.tab{
+  overflow: hidden;
+  border: 1px solid  #ccc;
+  background-color: #f1f1f1;
+}
+
+.card-list{
+  display: flex;
+  width: 80%;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.card{
+  flex: 0 0 33.333333%
+}
+
+.card-image{
+  width: 100%;
+  height: auto;
+}
